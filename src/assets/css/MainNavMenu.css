@@ -1,0 +1,17 @@
+nav.navbar-dark {
+    padding:0;
+    background-color: #191363!important;
+
+}
+.nav-link{
+    color: #fdfffc!important;
+}
+div.navbar-brand{
+    padding:0; 
+    margin: 0;
+}
+#navbarMain{
+    padding-top:12px;
+    padding-bottom: 12px;
+    background-color: #9a8d58;
+}

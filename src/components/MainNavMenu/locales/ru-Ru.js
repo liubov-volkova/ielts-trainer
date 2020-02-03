@@ -1,0 +1,23 @@
+﻿export default {
+    trainer: 'Языковой тренер',
+    home: 'Главная',
+    exercises: 'Упражнения',
+    allExerciseList: 'Весь список упражнений',
+    ampm:'12-часовая система времени',
+    spell_to_time:'Понимание записи времени',
+    gspelling:'Запись времени (разговорный)',
+    tvspelling:'Запись времени (СМИ, расписания)',
+    byspelling:'Понимание записи времени',
+    help:'Справочные материалы',
+    theory:"Теория",
+    aboutApp: "О программе IELTS Trainer",
+    vocabulary:'Словарь (время)',
+    vocabularyTrain:'IELTS: время. Слова',
+    price: 'Цены',
+    contacts: 'Контакты',
+    signup: 'Регистрация',
+    login: 'Вход',
+    signout: 'Выход',
+    administration: 'Администрирование',
+    account: 'Учетная запись'
+}
